@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discord MultiAccount Join Bot", "Discord MultiAccount Join Bot\Discord MultiAccount Join Bot.csproj", "{9BE27351-AF87-45B1-9B39-70A62483E9C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE27351-AF87-45B1-9B39-70A62483E9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE27351-AF87-45B1-9B39-70A62483E9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE27351-AF87-45B1-9B39-70A62483E9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE27351-AF87-45B1-9B39-70A62483E9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {882650B5-3014-4323-B359-1B6345E7246B}
+	EndGlobalSection
+EndGlobal
